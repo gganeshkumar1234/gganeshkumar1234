@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi 👋, I'm Ganesh Kumar from India 🇮🇳<br>Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale<br><br>What I Do<br>Design and operate Kubernetes platforms (EKS, RKE2) for multi-environment workloads<br>Build reusable Terraform modules for AWS and Azure<br>Implement GitOps-based deployments using ArgoCD and Helm<br>Automate CI/CD pipelines for applications and infrastructure<br>Design centralized observability using Prometheus, Grafana, and ELK<br>Integrate DevSecOps practices into delivery workflows<br><br>📌 Currently focused on DSA, Machine Learning, and Analytics projects<br>🧠 Practicing Data Structures & Algorithms in Python<br><br>Languages<br>Python<br>SQL<br>Java<br>C++<br><br>Databases & BI<br>MySQL<br><br>Tools & Platforms<br>Git<br>GitHub<br>VS Code<br>Jupyter Notebook<br>Linux<br>Docker<br>Kubernetes<br><br>
+# 👨‍💻 About Me:
+Hi 👋, I'm Ganesh Kumar from India 🇮🇳<br>Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable Systems at Scale<br><br>
+
+# 🚀 What I Do
+<br>Design and operate Kubernetes platforms (EKS, RKE2) for multi-environment workloads<br>Build reusable Terraform modules for AWS and Azure<br>Implement GitOps-based deployments using ArgoCD and Helm<br>Automate CI/CD pipelines for applications and infrastructure<br>Design centralized observability using Prometheus, Grafana, and ELK<br>Integrate DevSecOps practices into delivery workflows<br><br>📌 Currently focused on DSA, Machine Learning, and Analytics projects<br>🧠 Practicing Data Structures & Algorithms in Python<br><br>Languages<br>Python<br>SQL<br>Java<br>C++<br><br>Databases & BI<br>MySQL<br><br>Tools & Platforms<br>Git<br>GitHub<br>VS Code<br>Jupyter Notebook<br>Linux<br>Docker<br>Kubernetes<br><br>
 
 
 ## 🌐 Socials:
@@ -7,15 +10,3 @@ Hi 👋, I'm Ganesh Kumar from India 🇮🇳<br>Senior DevOps & Cloud Engineer 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gganeshkumar1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gganeshkumar1234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gganeshkumar1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gganeshkumar1234&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=gganeshkumar1234&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
