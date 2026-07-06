@@ -1,7 +1,7 @@
 ### 👨‍💻 About Me:
 
-<h1 align="center">Hi 👋, I'm Ganesh Kumar from India 🇮🇳
-<h3 align="center">Senior DevOps & Cloud Engineer / Platform Engineer | Automating Infrastructure | Kubernetes | Terraform | Github 
+<h3 align="center">Hi 👋, I'm Ganesh Kumar from India 🇮🇳</h3>
+<p align="center"><b>Senior DevOps & Cloud Engineer / Platform Engineer | Automating Infrastructure | Kubernetes | Terraform | Github</b></p>
 
 ---
 
