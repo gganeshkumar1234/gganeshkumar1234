@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ganesh Kumar from India 🇮🇳 </h1>
 
-<h3 align="center">
-Senior DevOps & Cloud / Platform Engineer | Automating Infrastructure | Operating Reliable Systems at Scale
-</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/-DEVOPS%20ENGINEER%20%7C%20INFRASTRUCTURE%20%7C%20CLOUD%20%7C%20AUTOMATION%20%7C%20KUBERNETES%20%7C%20TERRAFORM%20%7C%20CI%2FCD%20%7C%20MONITORING-black?style=for-the-badge" />
+</p>
 
 ---
 
