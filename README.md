@@ -1,7 +1,25 @@
-### 👨‍💻 About Me:
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103033/devOps-cloud-native.gif)
 
-<h3 align="center">Hi 👋, I'm Ganesh Kumar from India 🇮🇳</h3>
-<p align="center"><b>Senior DevOps & Cloud Engineer / Platform Engineer | Automating Infrastructure | Kubernetes | Terraform | Github</b></p>
+<h1 align="center">Hi 👋, I'm Ganesh Kumar from India 🇮🇳</h1>
+
+<h3 align="center">
+Senior DevOps & Cloud / Platform Engineer | Automating Infrastructure | Kubernetes | Terraform | Github
+</h3>
+
+---
+
+### 👨‍💻 About Me</h2>
+
+I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
+My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
+
+---
+
+### 🏅 Certifications
+
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
 
 ---
 
