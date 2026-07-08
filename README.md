@@ -27,7 +27,7 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 - ☸️ Design and operate **Kubernetes platforms** (EKS, RKE2) for multi-environment workloads
 - 🧱 Build reusable **Terraform modules** for AWS and Azure
-- 🔁 Implement **GitOps-based deployments** using ArgoCD and Helm
+- 🔁 Implement **GitOps-based deployments** using Jenkins
 - ⚙️ Automate **CI/CD pipelines** for applications and infrastructure
 - 📡 Design centralized **observability** using Prometheus, Grafana, and ELK
 - 🔒 Integrate **DevSecOps** practices into delivery workflows
